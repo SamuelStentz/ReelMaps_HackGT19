@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{7BF894A5-ED45-C7C5-B656-D3639FD88844}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/ScreenController.cs">
+    <Files>
+      <File FileName="Assets/BitScience/StreetView/Examples/ExampleStreetView.cs" Line="35" Column="15" />
+      <File FileName="Assets/BitScience/StreetView/Scripts/StreetViewCube.cs" />
+      <File FileName="Assets/BitScience/StreetView/Shaders/StreetView.shader" />
+      <File FileName="Assets/Scenes/ScreenController.cs" Line="46" Column="52" />
+      <File FileName="Assets/Scenes/NewBehaviourScript.cs" />
+      <File FileName="Assets/Scenes/Pause.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReelMapsAgain" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="BitScience" expanded="True">
+                <Node name="StreetView" expanded="True">
+                  <Node name="Documentation" expanded="True" />
+                  <Node name="Examples" expanded="True" />
+                  <Node name="Scripts" expanded="True" />
+                  <Node name="Shaders" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Scenes" expanded="True">
+                <Node name="ScreenController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6aafcdee-a1ac-4e94-b83b-fe6df9182a0d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
