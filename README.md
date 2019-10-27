@@ -9,7 +9,7 @@ Samuel Stentz: sstentz3@gatech.edu
 
 Platforms:
 Unity
-ExCode
+XCode
 ESRI (Map Creation and Storage)
 
 APIs Used:
