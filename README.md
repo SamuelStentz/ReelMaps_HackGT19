@@ -1,4 +1,4 @@
-# ReelMaps_HackGT19
+# Reel Maps Hack GT 2019
 Hack GT 2019:
 Bringing the places where your favorite films were made to you!
 Includes an interactive, mobile experience.
